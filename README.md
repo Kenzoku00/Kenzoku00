@@ -1,5 +1,9 @@
-## Hi there 👋
+Hi i am Daffa!👋  
 
+I'm a Ilyasa Daffa Saskara, student at SMKN 4 Malang, specializing in software development with a focus on game programming and design. I have experience working with popular game engines like Unity and Unreal Engine, where I bring ideas to life by creating immersive and interactive gaming experiences. I'm committed to continuously learning and honing my skills, from designing unique game to coding engaging gameplay. With a passion for the gaming industry, I’m excited to take on real-world projects and collaborate with professionals to create high-quality games. My ambition is to grow into a dependable programmer, contributing to dynamic teams and delivering memorable gaming experiences. 
+
+More Information :
+<a href= "https://s.id/ilyasadaffas">Click Here</a>
 <!--
 **Kenzoku00/Kenzoku00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
