@@ -24,8 +24,3 @@ I thrive on **learning continuously** and love tackling real-world projects that
   <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?&style=for-the-badge&logo=unreal-engine&logoColor=white"/>
   <!-- Add more tools as needed -->
 </p>
-
-### GitHub Stats
-
-![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenzoku00&show_icons=true&theme=dark)  
-*Stats powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)*
