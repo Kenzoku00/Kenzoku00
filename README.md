@@ -8,13 +8,7 @@
 
 ---
 
-### 🌐 Check Out My Portfolio
-
-<p align="center">
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+### 🌐 [Visit My Portfolio](https://yourportfolio.com)
 
 ---
 
