@@ -8,7 +8,7 @@
 
 ---
 
-### 🌐 **[CHECK OUT MY PROJECT!]([https://yourportfolio.com](https://dao-portofolio.vercel.app/))**
+### 🌐 **[CHECK OUT MY PROJECT!](https://dao-portofolio.vercel.app/)**
 
 ---
 
