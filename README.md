@@ -4,7 +4,17 @@
 
 **I'm a student at SMKN 4 Malang specializing in Software Development with a focus on Game Programming and Design. I have skills in game development using game engines like Unity and Unreal Engine to create immersive and interactive experiences. I am dedicated to refining my skills, whether it's designing captivating game worlds or crafting engaging gameplay mechanics.**
 
-**I thrive on learning continuously and love tackling real-world projects that challenge me to grow. My goal is to become a reliable programmer, capable of making meaningful contributions to dynamic teams and delivering memorable gaming experiences.**
+**I’m always excited to keep learning and growing, especially by working on real projects with professional teams. I love the chance to collaborate, solve real challenges, and create games that players will enjoy and remember. My goal is to become a reliable programmer who can make a real impact in the industry.**
+
+---
+
+### 🌐 Check Out My Portfolio
+
+<p align="center">
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
