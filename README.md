@@ -27,5 +27,5 @@ I thrive on **learning continuously** and love tackling real-world projects that
 
 ### GitHub Stats
 
-![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
+![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenzoku00&show_icons=true&theme=dark)  
 *Stats powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)*
