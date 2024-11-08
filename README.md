@@ -10,9 +10,7 @@
 
 ### 🌐 **[CHECK OUT MY PROJECT!](https://dao-portofolio.vercel.app/)**
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1nEVBikXV3C8ci4Y-bOWwMrv5ryIKQXRS/view?usp=sharing" style="font-size: smaller; color: grey;">or visit: https://dao-portofolio.vercel.app</a>
-</p>
+<a href="https://drive.google.com/file/d/1nEVBikXV3C8ci4Y-bOWwMrv5ryIKQXRS/view?usp=sharing" style="font-size: smaller; color: grey;">or visit: https://dao-portofolio.vercel.app</a>
 
 ---
 
