@@ -8,7 +8,7 @@
 
 ---
 
-### 🌐 **[CHECK OUT MY PROJECT!](https://dao-portofolio.vercel.app/)**
+### 🌐 **[CHECK OUT MY PROJECT!](https://dao-portfolio.vercel.app/)**
 
 <p>
   <a href="https://drive.google.com/file/d/1nEVBikXV3C8ci4Y-bOWwMrv5ryIKQXRS/view?usp=sharing" style="font-size: large; color: grey; text-decoration: none;">
