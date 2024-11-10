@@ -11,7 +11,7 @@
 ### 🌐 **[CHECK OUT MY PROJECT!](https://dao-portfolio.vercel.app/)**
 
 <p>
-  <a href="https://drive.google.com/file/d/1nEVBikXV3C8ci4Y-bOWwMrv5ryIKQXRS/view?usp=sharing" style="font-size: large; color: grey; text-decoration: none;">
+  <a href="https://drive.google.com/file/d/1AX2AJdf3UYxyr1KtFfAgFJi2f_7feol4/view?usp=sharing" style="font-size: large; color: grey; text-decoration: none;">
     <img src="https://img.icons8.com/material-outlined/24/000000/open-resume.png" style="vertical-align: middle;"/> VISIT MY CV
   </a>
 </p>
